@@ -1,9 +1,9 @@
 
-# ** Package ppi**
+# **Package ppi**
 ## **Author:** Phuong Thanh Nguyen
 
 Table of content
-- [\*\* Package ppi\*\*](#-package-ppi)
+- [**Package ppi**](#package-ppi)
   - [**Author:** Phuong Thanh Nguyen](#author-phuong-thanh-nguyen)
     - [1. Summary](#1-summary)
     - [2. Objective](#2-objective)
